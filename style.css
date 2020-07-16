@@ -3,3 +3,9 @@
     width: 500px;
     background-color: green;
 }
+
+.mini {
+    height: 100px;
+    width: 100px;
+    background-color: hotpink;
+}
