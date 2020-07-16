@@ -18,3 +18,9 @@
     -ms-transform: translate(-50%, -50%);
     -o-transform: translate(-50%, -50%);
 }
+
+.sub-mini {
+    font-size: larger;
+    color: indigo;
+    background-color: ivory;
+}
